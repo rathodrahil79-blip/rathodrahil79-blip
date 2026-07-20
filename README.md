@@ -31,7 +31,6 @@ I am a passionate B.Sc. IT student currently in my 3rd semester, focusing on bui
 ---
 
 ## 🤝 Connect with Me
-- 💼 **LinkedIn:** [તમારી લિંક અહીં મુકો]
 - 📧 **Email:** [rathodrahil79@gmail.com]
 - 
 https://github.com/rathodrahil79-blip/RAHIL-RATHOD/tree/main
